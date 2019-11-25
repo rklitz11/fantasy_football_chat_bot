@@ -23,11 +23,11 @@
     },
     "DISCORD_WEBHOOK_URL": {
       "description": "Discord Webhook URL",
-      "value": "1"
+      "value": "https://discordapp.com/api/webhooks/648526116646289408/Jphu8BMBaM8TnME5KUn5mmR5VvufKud2v5ss_fMpi96J1SpNyUy_YjJ6M-zstItDWLo1"
     },
     "LEAGUE_ID": {
       "description": "ESPN League ID",
-      "value": "1"
+      "value": "1456441"
     },
     "LEAGUE_YEAR": {
       "description": "ESPN League Year",
@@ -47,7 +47,7 @@
     },
     "INIT_MSG": {
       "description": "Bot Init Message",
-      "value": "Hi"
+      "value": "Hey fuckers"
     }
   }
 }
